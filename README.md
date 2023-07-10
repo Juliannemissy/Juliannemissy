@@ -23,3 +23,9 @@ I like to play video games, watch horror and gore movies, and I also like to sle
 [youtube]: https://youtube.com/@juliannemissy1186
 [instagram]: https://www.instagram.com/_ianssy_/
 [telegram]: https://web.telegram.org/a/
+<br>
+#### Github Stats
+
+![JUlianne's github stats]()
+
+</details>
