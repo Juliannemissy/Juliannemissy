@@ -10,7 +10,10 @@
 
 ### More stuff about me
 I like to play video games, watch horror and gore movies, and I also like to sleep and eat a lot.
-
+<br>
+### Github Stats
+![julianne's github stats](https://github-readme-stats.vercel.app/api?username=juliannemissy&count_private=true&theme=tokyonight&hide=contribs,prs)
+</details>
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -23,9 +26,4 @@ I like to play video games, watch horror and gore movies, and I also like to sle
 [youtube]: https://youtube.com/@juliannemissy1186
 [instagram]: https://www.instagram.com/_ianssy_/
 [telegram]: https://web.telegram.org/a/
-<br>
-#### Github Stats
 
-![JUlianne's github stats]()
-
-</details>
