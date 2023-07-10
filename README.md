@@ -15,6 +15,7 @@ I like to play video games, watch horror and gore movies, and I also like to sle
 ![julianne's github stats](https://github-readme-stats.vercel.app/api?username=juliannemissy&count_private=true&theme=tokyonight&hide=contribs,prs)
 </details>
 
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="missy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
