@@ -3,7 +3,7 @@
 ### What I currently Do
 
 - 🔭 I’m currently a student at the University of Pangasinan.
-- :computer: Android Studio, Flatter, Unity, Visual Studio, and Sublime text user.
+- :computer: Android Studio, Flutter, Unity, Visual Studio, and Sublime text user.
 - 🤔 I’m looking for help with my coding skills.
 - 📫 How to reach me: pabonjuliannemissy@gmail.com.
 - ⚡ Fun fact: I like to sleep and eat.
